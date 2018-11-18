@@ -13,7 +13,8 @@
 
 [![Photoshop](19-40-07-p.jpeg)](https://www.dropbox.com/s/m6j5pc1bc0d2b9p/Tuneva_Viktoria.pptx?dl=0)
 
-# [Задание 3]
+# Задание 3
+## [Как современная цифровая среда влияет на школьников](task3.md)
 
 # Задание 4
 
